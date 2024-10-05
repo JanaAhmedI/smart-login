@@ -1,0 +1,10 @@
+.logout{
+    border: 2px solid yellow;
+}
+body{
+    background-color: #24353F;
+}
+.homeContent{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    height: 200px;
+}

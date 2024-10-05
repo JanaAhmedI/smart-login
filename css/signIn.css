@@ -1,0 +1,31 @@
+input::placeholder {
+    font-weight: bold;
+    opacity: 1;
+    color: white !important
+    ;
+  }
+body{
+    background-color: #24353F;
+}
+
+.container{
+    background-color: #24353F;
+}
+h1{
+   color: #17a2b8;
+}
+
+section{
+    background-color: #24353F;
+    
+}
+.signIn-content{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.signUpQuestion a{
+    text-decoration: none;
+}
+
+ .signUpQuestion a:hover{
+    text-decoration: underline;
+}
